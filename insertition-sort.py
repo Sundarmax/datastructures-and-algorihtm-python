@@ -1,5 +1,5 @@
 # Insertition sort algorithm 
-
+# starting from 2nd element
 def insertition_sort(arr,n):
     for i in range(1,n):
         key = arr[i]
